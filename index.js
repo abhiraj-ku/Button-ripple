@@ -6,4 +6,3 @@ btElem.addEventListener("mouseover", (event) => {
     btElem.style.setProperty("--yPos", y + "px")
 
 })
-d
